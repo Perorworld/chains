@@ -1,0 +1,24 @@
+{
+  "name": "Pero",
+  "shortName": "pero",
+  "chain": "ETH",
+  "network": "pero",
+  "rpc": ["https://rpc.pero.network"], 
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Pero Coin",
+    "symbol": "PERO",
+    "decimals": 18
+  },
+  "infoURL": "https://pero.network",
+  "chainId": 258045,
+  "networkId": 258045,
+  "explorers": [
+    {
+      "name": "Pero Explorer",
+      "url": "https://explorer.pero.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "status": "incubating"
+}
